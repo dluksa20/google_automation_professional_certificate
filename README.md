@@ -1,10 +1,10 @@
 ## The following projects from Google automation with python professional certificate
 
-# Image Processing Project
+### Image Processing Project
 
 This project processes images by rotating, resizing, and converting them to JPEG format. It uses Python the `Pillow` libraryg.
 
-# Project Structure
+### Project Structure
 
 - `images/`: Directory containing the source images.
 - `opt/`: Directory where processed images will be saved.
