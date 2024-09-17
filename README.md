@@ -1,4 +1,4 @@
-1. ## Image Processing Project
+## 1. Image Processing Project
 
 This project is part of the Google Automation with Python Professional Certificate. It focuses on processing images by rotating, resizing, and converting them to JPEG format using the `Pillow` library in Python.
 
