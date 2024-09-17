@@ -1,16 +1,16 @@
-# Image Processing Project
+## Image Processing Project
 
 This project is part of the Google Automation with Python Professional Certificate. It focuses on processing images by rotating, resizing, and converting them to JPEG format using the `Pillow` library in Python.
 
-## Project Structure
+### Project Structure
 
 - `images/`: Directory containing the source images to be processed.
-- `opt/`: Directory where the processed images will be saved.
+- `opt/icons/`: Directory where the processed images will be saved.
 - `main.py`: Main script that performs the image processing tasks.
 - `requirements.txt`: Lists the Python libraries required to run the project.
 - `script.sh`: (Optional) Shell script for setting up the environment and installing dependencies. To execute, run `sh script.sh`.
 
-## Setup and Installation
+### Setup and Installation
 
 1. **Clone the Repository**
 
