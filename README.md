@@ -16,6 +16,6 @@ This project is part of the Google Automation with Python Professional Certifica
 
    ```bash
    git clone https://github.com/dluksa20/google_automation_professional_certificate.git
-   cd google_automation_professional_certificate
+   cd google_automation_professional_certificate/image_manipulation
    sh script.sh
-   ./image_manipulation/main.py
+   ./main.py
