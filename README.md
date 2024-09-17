@@ -1,14 +1,19 @@
-## The following projects from Google automation with python professional certificate
+# Image Processing Project
 
-### Image Processing Project
+This project is part of the Google Automation with Python Professional Certificate. It focuses on processing images by rotating, resizing, and converting them to JPEG format using the `Pillow` library in Python.
 
-This project processes images by rotating, resizing, and converting them to JPEG format. It uses Python the `Pillow` libraryg.
+## Project Structure
 
-### Project Structure
+- `images/`: Directory containing the source images to be processed.
+- `opt/`: Directory where the processed images will be saved.
+- `main.py`: Main script that performs the image processing tasks.
+- `requirements.txt`: Lists the Python libraries required to run the project.
+- `script.sh`: (Optional) Shell script for setting up the environment and installing dependencies. To execute, run `sh script.sh`.
 
-- `images/`: Directory containing the source images.
-- `opt/`: Directory where processed images will be saved.
-- `main.py`: Main script for processing images.
-- `requirements.txt`: Lists the Python libraries required for the project.
-- `script.sh`: (Optional) Shell script for setting up or running tasks get the images and istall requirements.txt to run.
-  `sh script.sh`
+## Setup and Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/dluksa20/google_automation_professional_certificate.git
+   cd google_automation_professional_certificate
