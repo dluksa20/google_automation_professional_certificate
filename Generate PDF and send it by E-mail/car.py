@@ -22,7 +22,6 @@ def format_car(car):
 
 def process_data(data):
   """Analyzes the data, looking for maximums.
-
   Returns a list of lines that summarize the information.
   """
   max_revenue = {"revenue": 0}
